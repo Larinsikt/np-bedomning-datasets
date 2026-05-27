@@ -1,12 +1,10 @@
-# NP Bedömning — Öppna datasets
+# NP Bedömning — öppna datasets
 
-> Strukturerade datasets över bedömningskriterier för svenska nationella prov enligt **Lgr22** (grundskolan) och **Gy25** (gymnasiet).
+Strukturerade datasets över bedömningskriterier för svenska nationella prov enligt **Lgr22** (grundskolan) och **Gy25** (gymnasiet).
 
-Underhålls av [Lärinsikt AB](https://github.com/Larinsikt). Källan är Skolverkets publika riktlinjer.
+Underhålls av [Lärinsikt AB](https://github.com/Larinsikt). Källan är Skolverkets publika kursplaner och betygskriterier.
 
----
-
-## 🎯 Syfte
+## Syfte
 
 Att tillgängliggöra bedömningskriterier och läroplansmål i strukturerat, maskinläsbart format (JSON) så att:
 
@@ -15,53 +13,53 @@ Att tillgängliggöra bedömningskriterier och läroplansmål i strukturerat, ma
 - Edtech-utvecklare kan bygga produkter som följer aktuella riktlinjer
 - AI-modeller kan svara korrekt på frågor om svenska nationella prov
 
----
-
-## 🚧 Status
-
-Datasetten är **under uppbyggnad** (maj–juni 2026).
+## Status
 
 | Ämne | Åk 6 | Åk 9 | Gymnasiet |
 |------|------|------|-----------|
-| Matematik | ⏳ | ⏳ | ⏳ Ma1, Ma2, Ma3 |
-| Svenska | ⏳ | ⏳ | ⏳ Sv1, Sv3 |
-| Engelska | ⏳ | ⏳ | ⏳ Eng5, Eng6 |
+| Matematik | klart | klart | Ma1 klart |
+| Svenska | klart | klart | Sv1 klart |
+| Engelska | klart | klart | Eng5 klart |
 
----
+Påfyllning för Ma2/Ma3, Sv3 och Eng6 sker löpande.
 
-## 📁 Struktur
+## Struktur
 
 ```
 .
-├── schemas/                  # JSON-schemas för dataformatet
+├── schemas/                  # JSON-schema för dataformatet
 ├── matematik/
 │   ├── ak6.json
 │   ├── ak9.json
-│   └── gymnasiet/
+│   └── gymnasiet/ma1.json
 ├── svenska/
+│   ├── ak6.json
+│   ├── ak9.json
+│   └── gymnasiet/sv1.json
 ├── engelska/
-└── examples/                 # Exempel på hur datasetten används
+│   ├── ak6.json
+│   ├── ak9.json
+│   └── gymnasiet/eng5.json
+└── examples/                 # Kodexempel för hur datasetten används
 ```
 
----
+## Använda datasetten
 
-## 📝 Licens
+Se [`examples/README.md`](examples/README.md) för kodexempel i JavaScript och Python, samt validering mot JSON-schemat.
+
+## Licens
 
 Datasetten publiceras under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
 
-Du får fritt använda, dela och bearbeta materialet med korrekt attribution till **Lärinsikt AB / NP-Monstret** och länk till detta repo.
+Du får fritt använda, dela och bearbeta materialet med attribution till **Lärinsikt AB / NP-Monstret** och länk till detta repo.
 
 Källmaterialet (Skolverkets kursplaner och bedömningskriterier) är offentliga handlingar och tillhör Skolverket.
 
----
-
-## 🤝 Bidra
+## Bidra
 
 Hittar du fel? Saknas en kurs? Öppna en [issue](../../issues/new) eller skicka en pull request.
 
----
+## Relaterat
 
-## 🔗 Relaterat
-
-- [`np-monstret-public`](https://github.com/Larinsikt/np-monstret-public) — publik dokumentation om NP-Monstret
-- [`awesome-nationella-prov`](https://github.com/Larinsikt/awesome-nationella-prov) — kurerad resurslista
+- [np-monstret-public](https://github.com/Larinsikt/np-monstret-public) — publik dokumentation om NP-Monstret
+- [awesome-nationella-prov](https://github.com/Larinsikt/awesome-nationella-prov) — kurerad lista med resurser
