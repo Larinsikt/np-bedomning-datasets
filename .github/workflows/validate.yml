@@ -1,0 +1,71 @@
+name: Validate datasets
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.json'
+      - 'schemas/**'
+      - '.github/workflows/validate.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - '**.json'
+      - 'schemas/**'
+
+jobs:
+  json-syntax:
+    name: JSON syntax check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate JSON syntax
+        run: |
+          set -e
+          fail=0
+          for f in $(find . -name "*.json" -not -path "./node_modules/*"); do
+            if ! python3 -c "import json; json.load(open('$f'))" 2>/dev/null; then
+              echo "::error file=$f::Invalid JSON syntax"
+              fail=1
+            else
+              echo "OK: $f"
+            fi
+          done
+          exit $fail
+
+  schema-validation:
+    name: Schema validation
+    runs-on: ubuntu-latest
+    needs: json-syntax
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install jsonschema
+        run: pip install jsonschema
+      - name: Validate datasets against schema
+        run: |
+          set -e
+          fail=0
+          for f in matematik/*.json matematik/gymnasiet/*.json \
+                   svenska/*.json svenska/gymnasiet/*.json \
+                   engelska/*.json engelska/gymnasiet/*.json; do
+            [ -f "$f" ] || continue
+            echo "Validating: $f"
+            if ! python3 -c "
+          import json, sys
+          from jsonschema import validate, ValidationError
+          schema = json.load(open('schemas/bedomningskriterier.schema.json'))
+          data = json.load(open('$f'))
+          try:
+              validate(instance=data, schema=schema)
+              print('  OK')
+          except ValidationError as e:
+              print(f'  FAIL: {e.message}')
+              sys.exit(1)
+          "; then
+              fail=1
+            fi
+          done
+          exit $fail
