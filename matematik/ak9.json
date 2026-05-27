@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "kalla": "Skolverket kursplan matematik Lgr22",
+    "datum": "2025-01-01",
+    "laroplan": "Lgr22"
+  },
+  "amne": "Matematik",
+  "arskurs": "9",
+  "amnesomraden": [
+    {
+      "namn": "Tal och taluppfattning",
+      "delomraden": [
+        {
+          "namn": "Reella tal och their egenskaper",
+          "kriterier": {
+            "E": "Kan använda tal i decimalform och bråkform samt beräkna med procent och proportionalitet.",
+            "C": "Kan använda rötter och potenser med rationella exponenter. Förklarar samband mellan tal i olika former.",
+            "A": "Kan använda och jämföra tal i olika former samt utföra beräkningar med komplexa uttryck."
+          }
+        },
+        {
+          "namn": "Talsystem",
+          "kriterier": {
+            "E": "Kan beskriva talsystem och hur tal kan representeras.",
+            "C": "Kan jämföra och ordna tal i olika representationer.",
+            "A": "Kan analysera och argumentera för val av representation."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Algebra",
+      "delomraden": [
+        {
+          "namn": "Algebraiska uttryck och ekvationer",
+          "kriterier": {
+            "E": "Kan tolka och skriva algebraiska uttryck. Löser enkle ekvationer.",
+            "C": "Kan förenkla och bryta ut faktorer ur algebraiska uttryck. Löser andragradsekvationer.",
+            "A": "Kan hantera komplexa algebraiska uttryck och ekvationer med flera variabler."
+          }
+        },
+        {
+          "namn": "Funktioner",
+          "kriterier": {
+            "E": "Kan beskriva funktioner med tabeller, grafer och formler. Kan tolka räta linjens ekvation.",
+            "C": "Kan använda funktioner för att beskriva samband. Kan bestämma funktionsvärden och nollställen.",
+            "A": "Kan modellera och analysera funktioner i olika kontexter. Kan använda och jämföra olika funktionstyper."
+          }
+        },
+        {
+          "namn": "Matematisk argumentation",
+          "kriterier": {
+            "E": "Kan använda variabler och algebra för att lösa problem.",
+            "C": "Kan formulera och lösa problem med algebraiska metoder.",
+            "A": "Kan konstruera och verifiera algebraiska modeller för komplexa problem."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Geometri",
+      "delomraden": [
+        {
+          "namn": "Geometriska begrepp och satser",
+          "kriterier": {
+            "E": "Kan använda Pythagoras sats för att beräkna sidor i rätvinkliga trianglar.",
+            "C": "Kan bevisa och använda geometriska satser. Kan hantera likformighet och kongruens.",
+            "A": "Kan bevisa satser och lösa geometriska problem med flera steg."
+          }
+        },
+        {
+          "namn": "Mätning och beräkning",
+          "kriterier": {
+            "E": "Kan beräkna omkrets och area av vanliga geometriska former.",
+            "C": "Kan beräkna volym av prismor, cylindrar, koner och klot.",
+            "A": "Kan kombinera area- och volymberäkningar i komplexa problem."
+          }
+        },
+        {
+          "namn": "Koordinatgeometri",
+          "kriterier": {
+            "E": "Kan använda koordinatsystem för att beskriva geometriska objekt.",
+            "C": "Kan beräkna avstånd mellan punkter och använda mittpunktsformeln.",
+            "A": "Kan använda analytisk geometri för att lösa geometriska problem."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Sannolikhet och statistik",
+      "delomraden": [
+        {
+          "namn": "Sannolikhet",
+          "kriterier": {
+            "E": "Kan beräkna sannolikhet i enkla slumpförsök. Kan använda beroende och oberoende händelser.",
+            "C": "Kan beräkna sannolikhet i sammansatta försök. Kan använda träddiagram och komplementhändelse.",
+            "A": "Kan modellera och beräkna sannolikheter i komplexa försök med flera steg."
+          }
+        },
+        {
+          "namn": "Statistik",
+          "kriterier": {
+            "E": "Kan läsa av och tolka tabeller och diagram. Kan beräkna medelvärde, median och typvärde.",
+            "C": "Kan kritiskt granska statistiska undersökningar och bedöma validitet.",
+            "A": "Kan analysera och jämföra statistiska material med kritiskt perspektiv."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Problemlösning",
+      "delomraden": [
+        {
+          "namn": "Strategier för problemlösning",
+          "kriterier": {
+            "E": "Kan lösa problem med givna strategier och visa sin lösning.",
+            "C": "Kan välja och använda effektiva strategier. Kan generalisera och specialisera.",
+            "A": "Kan formulera egna problem och utveckla generella lösningsmetoder."
+          }
+        }
+      ]
+    }
+  ],
+  "kunskapskrav": {
+    "E": " Eleven kan lösa enkla problem i elevnära situationer på ett i huvudsak fungerande sätt. Eleven beskriver tillvägagångssätt och ger enkla omdömen om resultatens rimlighet.",
+    "D": "Eleven kan lösa problemasom kräver enklare beräkningar och visar mellanresultat.",
+    "C": "Eleven kan lösa problem på ett relativt väl fungerande sätt. Eleven beskriver tillvägagångssätt och ger välgrundade omdömen.",
+    "B": "Eleven kan lösa problemasom kräver sammansatta beräkningar.",
+    "A": "Eleven kan lösa complexe problemsom kräver flera beräkningssteg. Eleven beskriver tillvägagångssätt och motiverar slutsatser."
+  },
+  "provstruktur": {
+    "delprov": [
+      {
+        "beteckning": "A",
+        "typ": "Muntligt",
+        "tidslangd_minuter": 30,
+        "hjalpmedel": ["Inga"]
+      },
+      {
+        "beteckning": "B",
+        "typ": "Skriftligt delprov",
+        "tidslangd_minuter": 60,
+        "hjalpmedel": ["Miniräknare"]
+      },
+      {
+        "beteckning": "C",
+        "typ": "Skriftligt delprov",
+        "tidslangd_minuter": 60,
+        "hjalpmedel": ["Miniräknare", "Formelblad"]
+      },
+      {
+        "beteckning": "D",
+        "typ": "Skriftligt delprov",
+        "tidslangd_minuter": 60,
+        "hjalpmedel": ["Miniräknare", "Formelblad"]
+      }
+    ]
+  }
+}

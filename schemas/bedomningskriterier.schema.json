@@ -1,0 +1,76 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Bedömningskriterier för nationella prov",
+  "description": "Strukturerat format för bedömningskriterier enligt Lgr22/Gy25",
+  "type": "object",
+  "required": ["metadata", "amne", "arskurs", "kunskapskrav"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["version", "kalla", "datum"],
+      "properties": {
+        "version": { "type": "string" },
+        "kalla": { "type": "string" },
+        "datum": { "type": "string" },
+        "laroplan": { "type": "string", "enum": ["Lgr22", "Gy25"] }
+      }
+    },
+    "amne": { "type": "string" },
+    "arskurs": { "type": "string" },
+    "amnesomraden": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["namn", "delomraden"],
+        "properties": {
+          "namn": { "type": "string" },
+          "delomraden": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["namn", "kriterier"],
+              "properties": {
+                "namn": { "type": "string" },
+                "kriterier": {
+                  "type": "object",
+                  "properties": {
+                    "E": { "type": "string" },
+                    "C": { "type": "string" },
+                    "A": { "type": "string" }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "kunskapskrav": {
+      "type": "object",
+      "properties": {
+        "E": { "type": "string" },
+        "D": { "type": "string" },
+        "C": { "type": "string" },
+        "B": { "type": "string" },
+        "A": { "type": "string" }
+      }
+    },
+    "provstruktur": {
+      "type": "object",
+      "properties": {
+        "delprov": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "beteckning": { "type": "string" },
+              "typ": { "type": "string" },
+              "tidslangd_minuter": { "type": "integer" },
+              "hjalpmedel": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        }
+      }
+    }
+  }
+}

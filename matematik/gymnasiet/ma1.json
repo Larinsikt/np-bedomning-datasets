@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "kalla": "Skolverket kursplan matematik Gy25",
+    "datum": "2025-01-01",
+    "laroplan": "Gy25"
+  },
+  "amne": "Matematik",
+  "kurs": "1abc",
+  "amnesomraden": [
+    {
+      "namn": "Aritmetik och taluppfattning",
+      "delomraden": [
+        {
+          "namn": "Reella tal och irrationella tal",
+          "kriterier": {
+            "E": "Kan använda och utföra beräkningar med reella tal.",
+            "C": "Kan förklara skillnaden mellan rationella och irrationella tal.",
+            "A": "Kan använda och jämföra olika talmängder och deras egenskaper."
+          }
+        },
+        {
+          "namn": "Potenser och rötter",
+          "kriterier": {
+            "E": "Kan beräkna potenser och rötter. Kan använda potenslagarna.",
+            "C": "Kan använda potenser med rationella exponenter. Kan förenkla uttryck med potenser.",
+            "A": "Kan hantera potenser med reella exponenter och visa förståelse för exponentialfunktionen."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Algebra",
+      "delomraden": [
+        {
+          "namn": "Algebraiska uttryck",
+          "kriterier": {
+            "E": "Kan tolka och skriva algebraiska uttryck. Kan förenkla uttryck genom att multiplicera in och bryta ut.",
+            "C": "Kan använda konjugatregeln och kvadreringsregeln. Kan utveckla och faktorisera uttryck.",
+            "A": "Kan hantera algebraiska uttryck med flera variabler och polynom i högre grad."
+          }
+        },
+        {
+          "namn": "Ekvationer och olikheter",
+          "kriterier": {
+            "E": "Kan lösa linjära ekvationer och olikheter.",
+            "C": "Kan lösa andragradsekvationer med flera metoder. Kan lösa rotekvationer.",
+            "A": "Kan lösa komplexa ekvationer och ekvationssystem i flera variabler."
+          }
+        },
+        {
+          "namn": "Funktioner",
+          "kriterier": {
+            "E": "Kan beskriva funktioner med ord, tabell och graf. Förstår definitions- och värdemängd.",
+            "C": "Kan använda räta linjens ekvation och exponentialfunktionen. Kan bestämma nollställen.",
+            "A": "Kan modellera med funktioner och analysera funktioners egenskaper."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Geometri",
+      "delomraden": [
+        {
+          "namn": "Enheter och beräkningar",
+          "kriterier": {
+            "E": "Kan använda vanliga längd-, area- och volymenheter. Kan göra enhetsbyten.",
+            "C": "Kan beräkna area och volym av vanliga geometriska kroppar.",
+            "A": "Kan kombinera beräkningar och lösa problemsom kräver kunskap om flera former."
+          }
+        },
+        {
+          "namn": "Vinkel och vinkelsumma",
+          "kriterier": {
+            "E": "Kan beräkna vinklar i triangelar och fyrhörningar.",
+            "C": "Kan använda randvinkelsatsen och likformighet.",
+            "A": "Kan bevisa och använda vinkelsatser i komplexa geometriska problem."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Sannolikhet och statistik",
+      "delomraden": [
+        {
+          "namn": "Sannolikhetslära",
+          "kriterier": {
+            "E": "Kan beräkna sannolikhet i enkla och sammansatta försök.",
+            "C": "Kan använda komplementhändelsen och beroende händelser.",
+            "A": "Kan modellera sannolikhetsproblem och beräkna med betingad sannolikhet."
+          }
+        },
+        {
+          "namn": "Statistik",
+          "kriterier": {
+            "E": "Kan beräkna och tolka lägesmått och spridningsmått.",
+            "C": "Kan kritisk granska statistik och bedöma unbiased undersökningar.",
+            "A": "Kan göra egna statistiska undersökningar och presentera resultat."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Problemlösning",
+      "delomraden": [
+        {
+          "namn": "Strategier för problemlösning",
+          "kriterier": {
+            "E": "Kan lösa problemsom presenteras med tydlig struktur.",
+            "C": "Kan välja strategi och lösa problemsom kräver flera beräkningssteg.",
+            "A": "Kan formulera egna problems och utveckla generella lösningsmetoder."
+          }
+        }
+      ]
+    }
+  ],
+  "kunskapskrav": {
+    "E": "Eleven kan lösaproblemsom kräver grundläggande beräkningar och enkel tillämpning av metoder.",
+    "D": "Eleven kan lösa problemsom krärmedelgod datakomplex.",
+    "C": "Eleven kan lösa problemsom kräver sammansattTillämpning av generella metoder.",
+    "B": "Eleven kan lösa problemsom kräver advanced tillämpning.",
+    "A": "Eleven kan lösa komplexaproblemsom kräver flera beräkningssteg och abstrakt tänkande."
+  },
+  "provstruktur": {
+    "delprov": [
+      {
+        "beteckning": "1",
+        "typ": "Skriftligt",
+        "tidslangd_minuter": 80,
+        "hjalpmedel": ["Miniräknare", "Formelblad"]
+      },
+      {
+        "beteckning": "2",
+        "typ": "Skriftligt",
+        "tidslangd_minuter": 80,
+        "hjalpmedel": ["Miniräknare", "Formelblad"]
+      },
+      {
+        "beteckning": "3",
+        "typ": "Muntligt",
+        "tidslangd_minuter": 20,
+        "hjalpmedel": ["Inga"]
+      }
+    ]
+  }
+}

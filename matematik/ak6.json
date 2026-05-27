@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "kalla": "Skolverket kursplan matematik Lgr22",
+    "datum": "2025-01-01",
+    "laroplan": "Lgr22"
+  },
+  "amne": "Matematik",
+  "arskurs": "6",
+  "amnesomraden": [
+    {
+      "namn": "Tal och taluppfattning",
+      "delomraden": [
+        {
+          "namn": "Positionssystemet och decimaltal",
+          "kriterier": {
+            "E": "Kan läsa, skriva ochstorleksordna naturliga tal och enkla decimaltal.",
+            "C": "Kan använda tal i bråk- och decimalform i olika situationer.",
+            "A": "Kan jämföra och ordna tal i olika representationer och motivera sin lösning."
+          }
+        },
+        {
+          "namn": "Räkning med naturliga tal",
+          "kriterier": {
+            "E": "Kan utföra addition, subtraktion, multiplikation och division med heltal.",
+            "C": "Kan använda de fyra räknesätten och visa mellanresultat.",
+            "A": "Kan välja lämplig räknemetod och bedöma resultatets rimlighet."
+          }
+        },
+        {
+          "namn": "Proportionalitet och procent",
+          "kriterier": {
+            "E": "Kan tolka och använda enkla proportionaliteter. Kan beräkna enklare procentbelopp.",
+            "C": "Kan använda proportionalitet i olika sammanhang och förklara sambandet.",
+            "A": "Kan lösa problem sominvolverar procent och proportionalitet."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Algebra",
+      "delomraden": [
+        {
+          "namn": "Mönster och samband",
+          "kriterier": {
+            "E": "Kan identifiera och beskriva enkla mönster i talföljder och geometriska mönster.",
+            "C": "Kan fortsätta och skapa egna mönster. Kan beskriva samband med ord och symboler.",
+            "A": "Kan generalisera mönster och formulera regler för samband."
+          }
+        },
+        {
+          "namn": "Ekvationer",
+          "kriterier": {
+            "E": "Kan tolka enkla matematiska uttryck och förstår likhetstecknets betydelse.",
+            "C": "Kan lösa enkla ekvationer med addition, subtraktion, multiplikation och division.",
+            "A": "Kan formulera och lösa ekvationer som beskriver problem i elevnära situationer."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Geometri",
+      "delomraden": [
+        {
+          "namn": "Geometriska objekt",
+          "kriterier": {
+            "E": "Kan beskriva och jämföra egenskaper hos vanliga geometriska objekt.",
+            "C": "Kan klassificera och sortera geometriska objekt efter olika egenskaper.",
+            "A": "Kan beskriva och argumentera för klassificering av geometriska objekt."
+          }
+        },
+        {
+          "namn": "Mätning",
+          "kriterier": {
+            "E": "Kan mäta och jämföra längder, areor och volymer med vanliga enheter.",
+            "C": "Kan välja och byta enheter samt göra enkla beräkningar av area och omkrets.",
+            "A": "Kan utföra beräkningar av area och volym i flera steg och motivera enhetsval."
+          }
+        },
+        {
+          "namn": "Symmetri och koordinatsystem",
+          "kriterier": {
+            "E": "Kan identifiera symmetri i enkla figurer och använda koordinatsystem.",
+            "C": "Kan beskriva och konstruera symmetriska figurer. Kan tolka och beskriva punkter i koordinatsystem.",
+            "A": "Kan använda koordinatsystem för att lösa problem och beskriva geometriska transformationer."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Sannolikhet och statistik",
+      "delomraden": [
+        {
+          "namn": "Sannolikhet",
+          "kriterier": {
+            "E": "Kan beskriva enkla slumphändelser och jämföra sannolikheter.",
+            "C": "Kan uttrycka sannolikhet som bråk, decimal och procent. Kan genomföra enkla slumpförsök.",
+            "A": "Kan tolka och förklara resultat av slumpförsök och bedöma sannolikheten i olika situationer."
+          }
+        },
+        {
+          "namn": "Statistik",
+          "kriterier": {
+            "E": "Kan läsa av och tolka enkla tabeller och diagram.",
+            "C": "Kan samla in, ordna och presentera data i tabeller och diagram.",
+            "A": "Kan tolka och kritiskt granska statistiska undersökningar och visa sin förståelse."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Problemlösning",
+      "delomraden": [
+        {
+          "namn": "Strategier och metoder",
+          "kriterier": {
+            "E": "Kan lösa enkla matematiska problem med given strategi.",
+            "C": "Kan välja och använda strategier för att lösa problem. Kan visa sin lösning.",
+            "A": "Kan lösa problem med flera steg och variera lösningsmetoder."
+          }
+        }
+      ]
+    }
+  ],
+  "kunskapskrav": {
+    "E": "Eleven kan lösa enkla problem i elevnära situationer på ett i huvudsak fungerande sätt.",
+    "D": "Eleven kan lösa problemasom kräver enklare beräkningar.",
+    "C": "Eleven kan lösa problem på ett relativt väl fungerande sätt och visar sin lösning.",
+    "B": "Eleven kan lösa problemasom kräver sammansatta beräkningar.",
+    "A": "Eleven kan lösa complexe problemasom kräver flera beräkningssteg och motivera sin lösning."
+  },
+  "provstruktur": {
+    "delprov": [
+      {
+        "beteckning": "A",
+        "typ": "Muntligt",
+        "tidslangd_minuter": 30,
+        "hjalpmedel": ["Inga"]
+      },
+      {
+        "beteckning": "B",
+        "typ": "Skriftligt delprov",
+        "tidslangd_minuter": 40,
+        "hjalpmedel": ["Miniräknare"]
+      },
+      {
+        "beteckning": "C",
+        "typ": "Skriftligt delprov",
+        "tidslangd_minuter": 40,
+        "hjalpmedel": ["Miniräknare"]
+      },
+      {
+        "beteckning": "D",
+        "typ": "Skriftligt delprov",
+        "tidslangd_minuter": 40,
+        "hjalpmedel": ["Miniräknare"]
+      },
+      {
+        "beteckning": "E",
+        "typ": "Skriftligt delprov",
+        "tidslangd_minuter": 40,
+        "hjalpmedel": ["Miniräknare"]
+      }
+    ]
+  }
+}
