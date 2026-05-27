@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "kalla": "Skolverket kursplan matematik Gy25",
+    "datum": "2026-05-27",
+    "laroplan": "Gy25"
+  },
+  "amne": "Matematik",
+  "kurs": "3bc",
+  "amnesomraden": [
+    {
+      "namn": "Algebra och funktioner",
+      "delomraden": [
+        {
+          "namn": "Polynomfunktioner av högre grad",
+          "kriterier": {
+            "E": "Kan tolka och rita polynomfunktioner samt bestämma nollställen.",
+            "C": "Kan analysera polynomfunktioners egenskaper och extrempunkter.",
+            "A": "Kan föra resonemang om polynomfunktioners beteende och samband mellan grad och utseende."
+          }
+        },
+        {
+          "namn": "Trigonometriska funktioner",
+          "kriterier": {
+            "E": "Kan rita och tolka sinus- och cosinusfunktioner.",
+            "C": "Kan lösa enkla trigonometriska ekvationer och tillämpa enhetscirkeln.",
+            "A": "Kan modellera periodiska förlopp med trigonometriska funktioner."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Derivata och differentialkalkyl",
+      "delomraden": [
+        {
+          "namn": "Derivatans definition",
+          "kriterier": {
+            "E": "Kan beräkna derivatan av polynomfunktioner.",
+            "C": "Kan tillämpa deriveringsregler för produkt, kvot och kedjeregel.",
+            "A": "Kan föra resonemang om derivatans definition som gränsvärde."
+          }
+        },
+        {
+          "namn": "Tillämpningar av derivata",
+          "kriterier": {
+            "E": "Kan använda derivata för att bestämma extrempunkter.",
+            "C": "Kan tillämpa derivata i optimeringsproblem.",
+            "A": "Kan analysera funktioners förlopp med hjälp av första och andra derivatan."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Integraler",
+      "delomraden": [
+        {
+          "namn": "Primitiv funktion och integrationsmetoder",
+          "kriterier": {
+            "E": "Kan bestämma primitiv funktion till polynomfunktioner.",
+            "C": "Kan beräkna bestämda integraler och tolka dem som areor.",
+            "A": "Kan tillämpa integraler i mer komplexa situationer och bevisa samband."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Differentialekvationer",
+      "delomraden": [
+        {
+          "namn": "Linjära differentialekvationer av första ordningen",
+          "kriterier": {
+            "E": "Kan känna igen och kontrollera lösningar till enkla differentialekvationer.",
+            "C": "Kan lösa separabla differentialekvationer.",
+            "A": "Kan modellera förlopp med differentialekvationer och tolka lösningarna."
+          }
+        }
+      ]
+    }
+  ],
+  "kunskapskrav": {
+    "E": "Eleven kan lösa problem som kräver tillämpning av kända metoder inom analys.",
+    "D": "Eleven kan lösa problem som kräver flera steg och visar god förståelse för analysens begrepp.",
+    "C": "Eleven kan lösa sammansatta problem och välja lämpliga metoder från differential- och integralkalkylen.",
+    "B": "Eleven kan lösa avancerade problem och föra utvecklade analytiska resonemang.",
+    "A": "Eleven kan lösa komplexa problem som kräver abstrakt tänkande, bevisförmåga och självständig analys."
+  },
+  "provstruktur": {
+    "delprov": [
+      {
+        "beteckning": "1",
+        "typ": "Skriftligt",
+        "tidslangd_minuter": 80,
+        "hjalpmedel": ["Formelblad"]
+      },
+      {
+        "beteckning": "2",
+        "typ": "Skriftligt",
+        "tidslangd_minuter": 120,
+        "hjalpmedel": ["Miniräknare", "Formelblad"]
+      },
+      {
+        "beteckning": "3",
+        "typ": "Muntligt",
+        "tidslangd_minuter": 20,
+        "hjalpmedel": ["Inga"]
+      }
+    ]
+  }
+}

@@ -17,11 +17,11 @@ Att tillgängliggöra bedömningskriterier och läroplansmål i strukturerat, ma
 
 | Ämne | Åk 6 | Åk 9 | Gymnasiet |
 |------|------|------|-----------|
-| Matematik | klart | klart | Ma1 klart |
-| Svenska | klart | klart | Sv1 klart |
-| Engelska | klart | klart | Eng5 klart |
+| Matematik | klart | klart | Ma1, Ma2, Ma3 |
+| Svenska | klart | klart | Sv1, Sv3 |
+| Engelska | klart | klart | Eng5, Eng6 |
 
-Påfyllning för Ma2/Ma3, Sv3 och Eng6 sker löpande.
+Fortsatt påfyllning sker löpande. Saknas en kurs? Öppna en [issue](../../issues/new).
 
 ## Struktur
 
@@ -31,15 +31,22 @@ Påfyllning för Ma2/Ma3, Sv3 och Eng6 sker löpande.
 ├── matematik/
 │   ├── ak6.json
 │   ├── ak9.json
-│   └── gymnasiet/ma1.json
+│   └── gymnasiet/
+│       ├── ma1.json
+│       ├── ma2.json
+│       └── ma3.json
 ├── svenska/
 │   ├── ak6.json
 │   ├── ak9.json
-│   └── gymnasiet/sv1.json
+│   └── gymnasiet/
+│       ├── sv1.json
+│       └── sv3.json
 ├── engelska/
 │   ├── ak6.json
 │   ├── ak9.json
-│   └── gymnasiet/eng5.json
+│   └── gymnasiet/
+│       ├── eng5.json
+│       └── eng6.json
 └── examples/                 # Kodexempel för hur datasetten används
 ```
 

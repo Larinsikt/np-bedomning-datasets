@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "kalla": "Skolverket ämnesplan svenska Gy25",
+    "datum": "2026-05-27",
+    "laroplan": "Gy25"
+  },
+  "amne": "Svenska",
+  "kurs": "3",
+  "amnesomraden": [
+    {
+      "namn": "Skriftlig framställning",
+      "delomraden": [
+        {
+          "namn": "Vetenskapligt skrivande",
+          "kriterier": {
+            "E": "Kan skriva en utredande text med en någorlunda tydlig disposition och sammanhang.",
+            "C": "Kan skriva en utredande text med god struktur, tydlig argumentation och relevant användning av källor.",
+            "A": "Kan skriva en vetenskapligt orienterad text med självständig analys, nyanserad argumentation och kritisk källanvändning."
+          }
+        },
+        {
+          "namn": "Källhantering och referenser",
+          "kriterier": {
+            "E": "Kan citera och referera till källor på ett grundläggande sätt.",
+            "C": "Kan integrera flera källor och redovisa dem enligt etablerad praxis.",
+            "A": "Kan väga källor mot varandra, bedöma deras tillförlitlighet och föra ett självständigt resonemang."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Muntlig framställning",
+      "delomraden": [
+        {
+          "namn": "Argumenterande och utredande tal",
+          "kriterier": {
+            "E": "Kan hålla ett förberett tal med någorlunda tydligt budskap.",
+            "C": "Kan hålla ett strukturerat tal med tydlig argumentation och anpassat språk.",
+            "A": "Kan hålla ett självständigt utformat tal med nyanserad argumentation, anpassat till mottagare och syfte."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Läsning och litteraturhistoria",
+      "delomraden": [
+        {
+          "namn": "Litteraturanalys",
+          "kriterier": {
+            "E": "Kan återge handling och centrala teman i läst skönlitteratur.",
+            "C": "Kan analysera berättarteknik, motiv och samband mellan verk och samhälle.",
+            "A": "Kan föra ett självständigt litteraturvetenskapligt resonemang och relatera verket till en bredare kontext."
+          }
+        },
+        {
+          "namn": "Litteraturhistoria",
+          "kriterier": {
+            "E": "Kan placera centrala verk i en tidsperiod.",
+            "C": "Kan beskriva drag i olika epoker och koppla verk till sin samtid.",
+            "A": "Kan jämföra epoker och föra resonemang om litteraturens utveckling över tid."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Språk och språkförhållanden",
+      "delomraden": [
+        {
+          "namn": "Språklig variation och språkbruk",
+          "kriterier": {
+            "E": "Kan ge exempel på språkliga variationer i Sverige och Norden.",
+            "C": "Kan resonera om språkets roll i samhället, sociolekter och dialekter.",
+            "A": "Kan föra utvecklade resonemang om språk, identitet och makt."
+          }
+        }
+      ]
+    }
+  ],
+  "kunskapskrav": {
+    "E": "Eleven kan skriva utredande och vetenskapligt orienterade texter med viss struktur. Källanvändningen är godtagbar.",
+    "D": "Eleven kan skriva texter med tydlig struktur och visa god förmåga i argumentation och källanvändning.",
+    "C": "Eleven kan skriva texter med god struktur, nyanserad argumentation och en relevant källanvändning.",
+    "B": "Eleven kan skriva avancerade texter med självständig analys och kritisk granskning av källor.",
+    "A": "Eleven kan skriva självständiga och välutvecklade vetenskapliga texter med nyanserad analys, kritisk källhantering och formell behärskning av genrens konventioner."
+  },
+  "provstruktur": {
+    "delprov": [
+      {
+        "beteckning": "A",
+        "typ": "Muntligt",
+        "tidslangd_minuter": 15,
+        "hjalpmedel": ["Stödord"]
+      },
+      {
+        "beteckning": "B",
+        "typ": "Skriftligt — läsförståelse och språkliga moment",
+        "tidslangd_minuter": 120,
+        "hjalpmedel": ["Inga"]
+      },
+      {
+        "beteckning": "C",
+        "typ": "Skriftligt — utredande text",
+        "tidslangd_minuter": 240,
+        "hjalpmedel": ["Ordbok", "Tillhandahållet källmaterial"]
+      }
+    ]
+  }
+}

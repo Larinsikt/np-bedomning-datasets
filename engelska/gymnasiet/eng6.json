@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "kalla": "Skolverket ämnesplan engelska Gy25",
+    "datum": "2026-05-27",
+    "laroplan": "Gy25"
+  },
+  "amne": "Engelska",
+  "kurs": "6",
+  "amnesomraden": [
+    {
+      "namn": "Reception (lyssna och läsa)",
+      "delomraden": [
+        {
+          "namn": "Hörförståelse",
+          "kriterier": {
+            "E": "Kan förstå huvudinnehåll och tydliga detaljer i tydligt talad engelska om bekanta ämnen.",
+            "C": "Kan förstå huvudinnehåll och väsentliga detaljer i talad engelska om bekanta och obekanta ämnen.",
+            "A": "Kan förstå både helhet och detaljer i talad engelska, även när språket är komplext eller talaren har ovanlig dialekt."
+          }
+        },
+        {
+          "namn": "Läsförståelse",
+          "kriterier": {
+            "E": "Kan förstå huvudinnehåll och tydliga detaljer i skriven engelska om bekanta ämnen.",
+            "C": "Kan förstå både huvudinnehåll och underförstådda budskap i skriven engelska om varierade ämnen.",
+            "A": "Kan förstå nyanser, ironi och kulturella referenser i avancerade engelska texter."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Produktion (skriva och tala)",
+      "delomraden": [
+        {
+          "namn": "Skriftlig produktion",
+          "kriterier": {
+            "E": "Kan skriva text med begripligt språk och godtagbar struktur i kända situationer.",
+            "C": "Kan skriva text med tydlig struktur, varierat ordförråd och relativt korrekt grammatik.",
+            "A": "Kan skriva text med god flyt, brett ordförråd, varierad meningsbyggnad och tydlig anpassning till syfte och mottagare."
+          }
+        },
+        {
+          "namn": "Muntlig produktion",
+          "kriterier": {
+            "E": "Kan tala begripligt om bekanta ämnen, även om språket är enkelt.",
+            "C": "Kan tala sammanhängande med relativt god flyt och anpassa språket efter sammanhang.",
+            "A": "Kan tala med stor säkerhet, anpassa språket nyanserat och argumentera självständigt."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Interaktion",
+      "delomraden": [
+        {
+          "namn": "Muntlig interaktion",
+          "kriterier": {
+            "E": "Kan delta i samtal om bekanta ämnen och göra sig förstådd.",
+            "C": "Kan delta aktivt i samtal, ställa följdfrågor och föra samtalet vidare.",
+            "A": "Kan delta i avancerade diskussioner, argumentera och bemöta motargument med flyt."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Realia och kulturkunskap",
+      "delomraden": [
+        {
+          "namn": "Engelskspråkiga samhällen",
+          "kriterier": {
+            "E": "Kan ge exempel på företeelser i engelskspråkiga samhällen.",
+            "C": "Kan jämföra företeelser och föra enkla resonemang om kulturella skillnader.",
+            "A": "Kan föra nyanserade resonemang om historiska, sociala och kulturella förhållanden i engelskspråkiga regioner."
+          }
+        }
+      ]
+    }
+  ],
+  "kunskapskrav": {
+    "E": "Eleven kan förstå huvudinnehåll i tydligt talad och skriven engelska. Eleven kan formulera sig med visst flyt om bekanta ämnen.",
+    "D": "Eleven kan förstå både huvudinnehåll och detaljer och formulera sig med relativt gott flyt i tal och skrift.",
+    "C": "Eleven kan förstå nyanser och formulera sig sammanhängande och varierat med god anpassning till syfte och mottagare.",
+    "B": "Eleven kan förstå komplext språk och formulera sig nyanserat med brett ordförråd och tydlig stilistisk medvetenhet.",
+    "A": "Eleven kan förstå avancerad engelska, inklusive nyanser och underförstådda budskap, och formulera sig med stor säkerhet, idiomatisk variation och stilistisk skicklighet."
+  },
+  "provstruktur": {
+    "delprov": [
+      {
+        "beteckning": "A",
+        "typ": "Muntlig produktion och interaktion",
+        "tidslangd_minuter": 15,
+        "hjalpmedel": ["Stödord"]
+      },
+      {
+        "beteckning": "B",
+        "typ": "Hörförståelse och läsförståelse",
+        "tidslangd_minuter": 90,
+        "hjalpmedel": ["Inga"]
+      },
+      {
+        "beteckning": "C",
+        "typ": "Skriftlig produktion",
+        "tidslangd_minuter": 150,
+        "hjalpmedel": ["Ordbok"]
+      }
+    ]
+  }
+}

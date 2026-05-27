@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "kalla": "Skolverket kursplan matematik Gy25",
+    "datum": "2026-05-27",
+    "laroplan": "Gy25"
+  },
+  "amne": "Matematik",
+  "kurs": "2abc",
+  "amnesomraden": [
+    {
+      "namn": "Algebra",
+      "delomraden": [
+        {
+          "namn": "Polynom och rationella uttryck",
+          "kriterier": {
+            "E": "Kan utföra grundläggande beräkningar med polynom och förenkla rationella uttryck.",
+            "C": "Kan utveckla, faktorisera och dividera polynom.",
+            "A": "Kan hantera rationella uttryck och visa förståelse för polynomdivision i flera steg."
+          }
+        },
+        {
+          "namn": "Andragradsekvationer och olikheter",
+          "kriterier": {
+            "E": "Kan lösa andragradsekvationer med pq-formeln eller kvadratkomplettering.",
+            "C": "Kan lösa andragradsolikheter och tolka lösningarna grafiskt.",
+            "A": "Kan analysera lösningar och föra resonemang om diskriminantens betydelse."
+          }
+        },
+        {
+          "namn": "Linjära ekvationssystem",
+          "kriterier": {
+            "E": "Kan lösa enkla linjära ekvationssystem med substitution eller addition.",
+            "C": "Kan lösa system med tre obekanta och tolka geometrisk innebörd.",
+            "A": "Kan analysera om system saknar lösning, har en lösning eller oändligt många."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Funktioner",
+      "delomraden": [
+        {
+          "namn": "Andragradsfunktioner",
+          "kriterier": {
+            "E": "Kan rita andragradsfunktioner och bestämma nollställen.",
+            "C": "Kan bestämma symmetrilinje, extrempunkter och tolka grafens egenskaper.",
+            "A": "Kan modellera situationer med andragradsfunktioner och dra slutsatser."
+          }
+        },
+        {
+          "namn": "Exponentialfunktioner och logaritmer",
+          "kriterier": {
+            "E": "Kan beräkna värden med exponentialfunktioner och tiologaritmer.",
+            "C": "Kan lösa exponentialekvationer med logaritmer.",
+            "A": "Kan modellera tillväxt och avtagande med exponentialfunktioner och tolka resultatet."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Geometri",
+      "delomraden": [
+        {
+          "namn": "Bevisföring och geometriska satser",
+          "kriterier": {
+            "E": "Kan tillämpa Pythagoras sats och kongruens.",
+            "C": "Kan tillämpa likformighet och randvinkelsatsen.",
+            "A": "Kan föra geometriska bevis och argumentera matematiskt."
+          }
+        },
+        {
+          "namn": "Trigonometri i rätvinkliga trianglar",
+          "kriterier": {
+            "E": "Kan beräkna sidor och vinklar med sinus, cosinus och tangens.",
+            "C": "Kan tillämpa trigonometri i sammansatta problem.",
+            "A": "Kan föra resonemang om trigonometriska samband och bevis."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Statistik och sannolikhet",
+      "delomraden": [
+        {
+          "namn": "Normalfördelning",
+          "kriterier": {
+            "E": "Kan beräkna sannolikheter inom standardavvikelse i en normalfördelning.",
+            "C": "Kan tolka standardavvikelse och z-värde i en normalfördelning.",
+            "A": "Kan analysera statistisk data och dra slutsatser med stöd av normalfördelning."
+          }
+        }
+      ]
+    }
+  ],
+  "kunskapskrav": {
+    "E": "Eleven kan lösa problem som kräver grundläggande beräkningar och tillämpning av valda metoder.",
+    "D": "Eleven kan lösa problem som kräver flera beräkningssteg och visa förståelse för centrala begrepp.",
+    "C": "Eleven kan lösa sammansatta problem och välja lämpliga metoder med viss anpassning.",
+    "B": "Eleven kan lösa avancerade problem och föra utvecklade matematiska resonemang.",
+    "A": "Eleven kan lösa komplexa problem som kräver abstrakt tänkande, generella metoder och fördjupad analys."
+  },
+  "provstruktur": {
+    "delprov": [
+      {
+        "beteckning": "1",
+        "typ": "Skriftligt",
+        "tidslangd_minuter": 80,
+        "hjalpmedel": ["Formelblad"]
+      },
+      {
+        "beteckning": "2",
+        "typ": "Skriftligt",
+        "tidslangd_minuter": 100,
+        "hjalpmedel": ["Miniräknare", "Formelblad"]
+      },
+      {
+        "beteckning": "3",
+        "typ": "Muntligt",
+        "tidslangd_minuter": 20,
+        "hjalpmedel": ["Inga"]
+      }
+    ]
+  }
+}
