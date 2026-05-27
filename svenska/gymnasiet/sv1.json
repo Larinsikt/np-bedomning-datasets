@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "kalla": "Skolverket kursplan svenska som andrasprak Gy25",
+    "datum": "2025-01-01",
+    "laroplan": "Gy25"
+  },
+  "amne": "Svenska",
+  "kurs": "1",
+  "amnesomraden": [
+    {
+      "namn": "Kommunikation och språk",
+      "delomraden": [
+        {
+          "namn": "Muntlig kommunikation",
+          "kriterier": {
+            "E": "Kan uttrycka sig begripligt i tal och delta i diskussioner om bekanta ämnen.",
+            "C": "Kan uttrycka sig tydligt och sammanhängande i tal och anpassa språket till situationen.",
+            "A": "Kan uttrycka sig ledigt och nyanserat i tal och anpassa språket till olika sammanhang och syften."
+          }
+        },
+        {
+          "namn": "Skriftlig kommunikation",
+          "kriterier": {
+            "E": "Kan skriva begripliga texter om vardagliga ämnen med enkel struktur.",
+            "C": "Kan skriva sammanhängande texter om olika ämnen med tydlig struktur och anpassning till syfte.",
+            "A": "Kan skriva välstrukturerade och nyanserade texter med språklig variation och precision."
+          }
+        },
+        {
+          "namn": "Läsförståelse",
+          "kriterier": {
+            "E": "Kan läsa och förstå texter om vardagliga ämnen och göra enkla sammanfattningar.",
+            "C": "Kan läsa och förstå texter med abstrakt innehåll och göra välgrundade tolkningar.",
+            "A": "Kan läsa kritiskt och göra nyanserade tolkningar av texter med komplext innehåll."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Språk och grammatik",
+      "delomraden": [
+        {
+          "namn": "Grammatik och satslära",
+          "kriterier": {
+            "E": "Kan använda grundläggande grammatiska strukturer korrekt.",
+            "C": "Kan använda och analysera grammatiska strukturer med god säkerhet.",
+            "A": "Kan reflektera över och behärska grammatik på en hög nivå i olika sammanhang."
+          }
+        },
+        {
+          "namn": "Ordförråd och uttryck",
+          "kriterier": {
+            "E": "Kan använda ett grundläggande ordförråd för vardagliga situationer.",
+            "C": "Kan använda ett utvecklat ordförråd och förstå och använda facktermer.",
+            "A": "Kan använda ett rikt ordförråd med stor precision och anpassning till ämne och situation."
+          }
+        },
+        {
+          "namn": "Språklig variation och stil",
+          "kriterier": {
+            "E": "Kan använda språket på ett korrekt sätt i formella och informella sammanhang.",
+            "C": "Kan anpassa språk och stil till olika genrer och kommunikationssituationer.",
+            "A": "Kan använda språket med stor stilistisk medvetenhet och precision i alla sammanhang."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Texter och kultur",
+      "delomraden": [
+        {
+          "namn": "Litteratur och analys",
+          "kriterier": {
+            "E": "Kan läsa och återge handlingen i skönlitterära texter.",
+            "C": "Kan analysera och tolka skönlitterära texter med koppling till kulturella sammanhang.",
+            "A": "Kan göra välgrundade litterära analyser med teoretisk djup."
+          }
+        },
+        {
+          "namn": "Kulturell medvetenhet",
+          "kriterier": {
+            "E": "Kan beskriva hur språk och kultur samverkar i olika texter.",
+            "C": "Kan analysera kulturella perspektiv i texter och relatera till egna erfarenheter.",
+            "A": "Kan reflektera kritiskt över kulturella och sociala perspektiv i texter."
+          }
+        },
+        {
+          "namn": "Textsorter och genrer",
+          "kriterier": {
+            "E": "Kan känna igen och använda vanliga textsorter.",
+            "C": "Kan analysera och använda olika textsorter och genrer ändamålsenligt.",
+            "A": "Kan kombinera genrer kreativt och anpassa textproduktion till komplexa kommunikationsbehov."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Argumentation och retorik",
+      "delomraden": [
+        {
+          "namn": "Argumentation",
+          "kriterier": {
+            "E": "Kan framföra enkla argument och ge stöd för sin ståndpunkt.",
+            "C": "Kan argumentera med relevanta belägg och bemöta motargument.",
+            "A": "Kan konstruera välgrundade argument och delta kritiskt i diskussioner."
+          }
+        },
+        {
+          "namn": "Retorisk medvetenhet",
+          "kriterier": {
+            "E": "Kan identifiera grundläggande retoriska grepp i texter och tal.",
+            "C": "Kan analysera och använda retoriska grepp i egna texter.",
+            "A": "Kan använda retorik ändamålsenligt och kritiskt värdera andras argumentation."
+          }
+        }
+      ]
+    }
+  ],
+  "kunskapskrav": {
+    "E": "Eleven kan kommunicera i tal och skrift om vardagliga ämnen. Eleven läser och förstår enkla texter.",
+    "D": "Eleven visar förståelse för texter och kan uttrycka sig med viss precision.",
+    "C": "Eleven kan kommunicera tydligt i tal och skrift och gör tolkningar av texter med belägg.",
+    "B": "Eleven visar god kommunikativ förmåga och kan analysera texter med precision.",
+    "A": "Eleven behärskar språket med stor precision och kan göra kritiska analyser av texter."
+  },
+  "provstruktur": {
+    "delprov": [
+      {
+        "beteckning": "1",
+        "typ": "Skriftligt",
+        "tidslangd_minuter": 90,
+        "hjalpmedel": ["Inga"]
+      },
+      {
+        "beteckning": "2",
+        "typ": "Läsförståelse",
+        "tidslangd_minuter": 90,
+        "hjalpmedel": ["Inga"]
+      },
+      {
+        "beteckning": "3",
+        "typ": "Muntligt",
+        "tidslangd_minuter": 20,
+        "hjalpmedel": ["Inga"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "kalla": "Skolverket kursplan engelska Gy25",
+    "datum": "2025-01-01",
+    "laroplan": "Gy25"
+  },
+  "amne": "Engelska",
+  "kurs": "5",
+  "amnesomraden": [
+    {
+      "namn": "Kommunikation och språk",
+      "delomraden": [
+        {
+          "namn": "Muntlig kommunikation",
+          "kriterier": {
+            "E": "Kan uttrycka sig på engelska med viss säkerhet i formella och informella sammanhang.",
+            "C": "Kan uttrycka sig tydligt och sammanhängande med god språklig precision och anpassning till mottagare.",
+            "A": "Kan uttrycka sig ledigt och nyanserat med hög språklig precision och anpassning i komplexa situationer."
+          }
+        },
+        {
+          "namn": "Skriftlig kommunikation",
+          "kriterier": {
+            "E": "Kan skriva sammanhängande texter om bekanta ämnen med enkel struktur.",
+            "C": "Kan skriva välstrukturerade texter om olika ämnen med tydlig anpassning till genre och syfte.",
+            "A": "Kan skriva komplexa texter med stor språklig variation och precision i formella och kreativa genrer."
+          }
+        },
+        {
+          "namn": "Interaktion",
+          "kriterier": {
+            "E": "Kan delta i samtal och diskussioner om bekanta ämnen och uttrycka åsikter.",
+            "C": "Kan delta aktivt i diskussioner och argumentera med relevanta belägg.",
+            "A": "Kan leda och delta i komplexa diskussioner med kritiskt tänkande och anpassning."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Språklig kompetens",
+      "delomraden": [
+        {
+          "namn": "Grammatisk korrekthet",
+          "kriterier": {
+            "E": "Kan använda grundläggande grammatiska strukturer korrekt och visar språklig medvetenhet.",
+            "C": "Kan använda ett varierat språk med god grammatisk precision och stilistisk medvetenhet.",
+            "A": "Kan behärska språket med hög precision och variation i komplexa sammanhang."
+          }
+        },
+        {
+          "namn": "Ordförråd och uttryck",
+          "kriterier": {
+            "E": "Kan använda ett grundläggande ordförråd i vardagliga och ämnesmässiga sammanhang.",
+            "C": "Kan använda ett utvecklat ordförråd och visar god ordkunskap i ämnessammanhang.",
+            "A": "Kan använda ett rikt och nyanserat ordförråd med stor precision i alla sammanhang."
+          }
+        },
+        {
+          "namn": "Uttal och intonation",
+          "kriterier": {
+            "E": "Kan uttala engelska på ett begripligt sätt med viss accent.",
+            "C": "Kan uttala med god tydlighet och visar medvetenhet omintonation och betoning.",
+            "A": "Kan uttala med hög tydlighet och naturligintonation som stödjer kommunikationen."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Texter och kultur",
+      "delomraden": [
+        {
+          "namn": "Läsförståelse och analys",
+          "kriterier": {
+            "E": "Kan läsa och förstå texter med varierat innehåll och identifiera syfte och main points.",
+            "C": "Kan analysera och tolka texter med koppling till stil, genre och kulturell kontext.",
+            "A": "Kan läsa kritiskt och göra välgrundade analyser av komplexa texter med litterär och samhällelig dimension."
+          }
+        },
+        {
+          "namn": "Kulturell förståelse",
+          "kriterier": {
+            "E": "Kan beskriva kulturella perspektiv i engelskspråkiga länder och relatera till egna erfarenheter.",
+            "C": "Kan analysera och jämföra kulturella perspektiv och visar nyanserad interkulturell förståelse.",
+            "A": "Kan reflektera kritiskt över kulturella perspektiv och diskutera hur identitet och kultur samverkar."
+          }
+        },
+        {
+          "namn": "Genre och texttyper",
+          "kriterier": {
+            "E": "Kan känna igen och använda vanliga texttyper och genrer.",
+            "C": "Kan analysera och använda olika texttyper med god medvetenhet om konventioner och syfte.",
+            "A": "Kan analysera genrekonventioner kritiskt och produktivt i egna texter."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Lärande och strategier",
+      "delomraden": [
+        {
+          "namn": "Språkliga strategier",
+          "kriterier": {
+            "E": "Kan använda grundläggande strategier för att förstå och kommunicera.",
+            "C": "Kan använda ett brett spektrum av strategier för att lösa språkproblem och förstå texter.",
+            "A": "Kan använda strategier med stor effektivitet och reflektera över och utveckla sitt lärande."
+          }
+        }
+      ]
+    }
+  ],
+  "kunskapskrav": {
+    "E": "Eleven kan uttrycka sig på engelska i formella och informella sammanhang. Eleven läser och förstår texter med varierat innehåll.",
+    "D": "Eleven visar språklig säkerhet och kan göra sig förstådd med viss precision.",
+    "C": "Eleven uttrycker sig tydligt med god språklig precision och analyserar texter med kritiskt perspektiv.",
+    "B": "Eleven visar god språklig kompetens och kan delta aktivt i komplexa diskussioner.",
+    "A": "Eleven behärskar engelska med hög precision och kan kommunicera ledigt och nyanserat i alla sammanhang."
+  },
+  "provstruktur": {
+    "delprov": [
+      {
+        "beteckning": "1",
+        "typ": "Skriftligt",
+        "tidslangd_minuter": 120,
+        "hjalpmedel": ["Inga"]
+      },
+      {
+        "beteckning": "2",
+        "typ": "Läsförståelse",
+        "tidslangd_minuter": 90,
+        "hjalpmedel": ["Inga"]
+      },
+      {
+        "beteckning": "3",
+        "typ": "Muntligt",
+        "tidslangd_minuter": 20,
+        "hjalpmedel": ["Inga"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "kalla": "Skolverket kursplan engelska Lgr22",
+    "datum": "2025-01-01",
+    "laroplan": "Lgr22"
+  },
+  "amne": "Engelska",
+  "arskurs": "9",
+  "amnesomraden": [
+    {
+      "namn": "Kommunikation",
+      "delomraden": [
+        {
+          "namn": "Muntlig produktion och interaktion",
+          "kriterier": {
+            "E": "Kan uttrycka sig på engelska i olika situationer och diskutera bekanta ämnen.",
+            "C": "Kan uttrycka sig tydligt och sammanhängande och anpassa språket till olika situationer och mottagare.",
+            "A": "Kan uttrycka sig ledigt och nyanserat med god språklig säkerhet i komplexa situationer."
+          }
+        },
+        {
+          "namn": "Skriftlig produktion",
+          "kriterier": {
+            "E": "Kan skriva sammanhängande texter om vardagliga och bekanta ämnen.",
+            "C": "Kan skriva välstrukturerade texter om olika ämnen med tydlig anpassning till syfte och genre.",
+            "A": "Kan skriva komplexa texter med stor språklig variation och precision i olika genrer."
+          }
+        },
+        {
+          "namn": "Läsförståelse",
+          "kriterier": {
+            "E": "Kan läsa och förstå engelska texter med viss komplexitet.",
+            "C": "Kan läsa och förstå texter med abstrakt eller komplext innehåll och göra tolkningar.",
+            "A": "Kan läsa kritiskt och göra välgrundade tolkningar av texter med varierat innehåll och stil."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Språk och kultur",
+      "delomraden": [
+        {
+          "namn": "Språklig kompetens",
+          "kriterier": {
+            "E": "Kan använda grundläggande grammatiska strukturer och ett vardagligt ordförråd korrekt.",
+            "C": "Kan använda ett varierat språk med god språklig medvetenhet och visa säkerhet i grammatik och stil.",
+            "A": "Kan använda språket med stor variation, precision och stilistisk medvetenhet."
+          }
+        },
+        {
+          "namn": "Kulturell förståelse",
+          "kriterier": {
+            "E": "Kan beskriva kulturella skillnader och likheter mellan svenska och engelskspråkiga länder.",
+            "C": "Kan analysera och reflektera över kulturella perspektiv i engelskspråkiga sammanhang.",
+            "A": "Kan jämföra och diskutera kulturella perspektiv med nyanserad förståelse och kritiskt tänkande."
+          }
+        },
+        {
+          "namn": "Strategier",
+          "kriterier": {
+            "E": "Kan använda grundläggande strategier för att förstå och kommunicera.",
+            "C": "Kan använda ett brett spektrum av strategier för att förstå, tolka och lösa språkliga problem.",
+            "A": "Kan använda strategier med stor effektivitet och reflektera över sitt språklärande."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Texter och medier",
+      "delomraden": [
+        {
+          "namn": "Läsförståelse och analys",
+          "kriterier": {
+            "E": "Kan läsa och förstå texter och identifiera syfte, huvudtanke och detaljer.",
+            "C": "Kan analysera och tolka texter med koppling till stil, syfte och kulturell kontext.",
+            "A": "Kan läsa kritiskt och göra välgrundade analyser av texter med komplext innehåll och stil."
+          }
+        },
+        {
+          "namn": "Genre och texttyper",
+          "kriterier": {
+            "E": "Kan känna igen och använda vanliga texttyper och genrer.",
+            "C": "Kan analysera och använda olika texttyper och genrer med god medvetenhet om deras konventioner.",
+            "A": "Kan analysera genrekonventioner kritiskt och anpassa sin produktion till komplexa kommunikationsbehov."
+          }
+        },
+        {
+          "namn": "Medieläskunnighet",
+          "kriterier": {
+            "E": "Kan förstå och tolka information från olika medier i enkla sammanhang.",
+            "C": "Kan analysera och värdera information från olika medier med kritiskt perspektiv.",
+            "A": "Kan kritiskt granska medietexter och förstå hur medieformat påverkar budskap och mottagare."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Lärande och utveckling",
+      "delomraden": [
+        {
+          "namn": "Metakognitiv kompetens",
+          "kriterier": {
+            "E": "Kan planera och genomföra enkla språkliga uppgifter och utvärdera resultatet.",
+            "C": "Kan planera, genomföra och utvärdera språkliga uppgifter med god självreglering.",
+            "A": "Kan reflektera över och utveckla sitt lärande med stor medvetenhet om strategier och processer."
+          }
+        }
+      ]
+    }
+  ],
+  "kunskapskrav": {
+    "E": "Eleven kan uttrycka sig på engelska i olika situationer och skriver sammanhängande texter. Eleven läser och förstår texter med viss komplexitet.",
+    "D": "Eleven visar språklig säkerhet i bekanta situationer och kan göra sig förstådd.",
+    "C": "Eleven uttrycker sig tydligt och anpassar språket till situation. Eleven analyserar och tolkar texter med precision.",
+    "B": "Eleven visar god språklig kompetens och kan diskutera komplexa ämnen med viss säkerhet.",
+    "A": "Eleven behärskar engelska med stor precision och kan kommunicera ledigt och nyanserat i komplexa situationer."
+  },
+  "provstruktur": {
+    "delprov": [
+      {
+        "beteckning": "A",
+        "typ": "Muntligt",
+        "tidslangd_minuter": 30,
+        "hjalpmedel": ["Inga"]
+      },
+      {
+        "beteckning": "B",
+        "typ": "Läsförståelse",
+        "tidslangd_minuter": 80,
+        "hjalpmedel": ["Inga"]
+      },
+      {
+        "beteckning": "C",
+        "typ": "Skriftligt",
+        "tidslangd_minuter": 120,
+        "hjalpmedel": ["Inga"]
+      }
+    ]
+  }
+}

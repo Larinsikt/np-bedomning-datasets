@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "kalla": "Skolverket kursplan engelska Lgr22",
+    "datum": "2025-01-01",
+    "laroplan": "Lgr22"
+  },
+  "amne": "Engelska",
+  "arskurs": "6",
+  "amnesomraden": [
+    {
+      "namn": "Kommunikation",
+      "delomraden": [
+        {
+          "namn": "Muntlig kommunikation",
+          "kriterier": {
+            "E": "Kan förstå tydligt talad engelska i vardagliga situationer. Kan uttrycka sig på engelska i enkla sammanhang.",
+            "C": "Kan förstå talad engelska i olika sammanhang. Kan uttrycka sig tydligt och sammanhängande.",
+            "A": "Kan förstå talad engelska med varierat innehåll och uttrycka sig ledigt och nyanserat."
+          }
+        },
+        {
+          "namn": "Skriftlig kommunikation",
+          "kriterier": {
+            "E": "Kan läsa och förstå enkla engelska texter. Kan skriva korta sammanhängande texter.",
+            "C": "Kan läsa och förstå texter med viss komplexitet. Kan skriva utvecklade texter med tydlig struktur.",
+            "A": "Kan läsa och förstå texter med abstrakt eller komplext innehåll. Kan skriva välstrukturerade texter med språklig variation."
+          }
+        },
+        {
+          "namn": "Interaktion",
+          "kriterier": {
+            "E": "Kan delta i enkla samtal och diskussioner om välbekanta ämnen.",
+            "C": "Kan delta i samtal och diskussioner och anpassa språket till situationen.",
+            "A": "Kan ta initiativ i samtal och diskussioner och anpassa språket med stor precision."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Språk och kultur",
+      "delomraden": [
+        {
+          "namn": "Språkliga kunskaper",
+          "kriterier": {
+            "E": "Kan använda grundläggande grammatiska strukturer och vokabulär korrekt.",
+            "C": "Kan använda ett varierat språk och visar god språklig medvetenhet.",
+            "A": "Kan använda språket med stor variation och precision i olika sammanhang."
+          }
+        },
+        {
+          "namn": "Kulturell medvetenhet",
+          "kriterier": {
+            "E": "Kan ge exempel på hur engelska används i olika kulturer och sammanhang.",
+            "C": "Kan beskriva och jämföra kulturella skillnader och likheter i engelskspråkiga länder.",
+            "A": "Kan reflektera över och diskutera kulturella perspektiv med nyanserad förståelse."
+          }
+        },
+        {
+          "namn": "Lstrategier",
+          "kriterier": {
+            "E": "Kan använda enkla strategier för att förstå och kommunicera.",
+            "C": "Kan använda strategier för att förstå och tolka texter och yttranden.",
+            "A": "Kan använda ett brett spektrum av strategier för att förstå, tolka och kommunicera."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Texter och medier",
+      "delomraden": [
+        {
+          "namn": "Läsförståelse",
+          "kriterier": {
+            "E": "Kan läsa och förstå enkla texter och identifiera huvudtanken.",
+            "C": "Kan läsa och förstå texter med viss komplexitet och göra enkla tolkningar.",
+            "A": "Kan läsa kritiskt och göra välgrundade tolkningar av texter med komplext innehåll."
+          }
+        },
+        {
+          "namn": "Textsorter",
+          "kriterier": {
+            "E": "Kan känna igen några vanliga textsorter och deras syfte.",
+            "C": "Kan beskriva och använda olika textsorter och anpassa sin läsning.",
+            "A": "Kan analysera och använda textsorter med god medvetenhet om genrekonventioner."
+          }
+        },
+        {
+          "namn": "Media och multimodalitet",
+          "kriterier": {
+            "E": "Kan förstå information i enkla medietexter som film och ljud.",
+            "C": "Kan tolka och analysera information från olika medier.",
+            "A": "Kan kritiskt granska medietexter och förstå hur olika medium påverkar budskapet."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Förmågor och kompetenser",
+      "delomraden": [
+        {
+          "namn": "Problemlösning och lärande",
+          "kriterier": {
+            "E": "Kan använda grundläggande inlärningsstrategier för att utveckla språket.",
+            "C": "Kan planera och utvärdera sitt lärande och använda effektiva strategier.",
+            "A": "Kan reflektera över sitt lärande och använda ett brett spektrum av strategier."
+          }
+        }
+      ]
+    }
+  ],
+  "kunskapskrav": {
+    "E": "Eleven kan förstå tydligt talad engelska i vardagliga situationer och uttrycka sig enkelt. Eleven läser och förstår enkla texter.",
+    "D": "Eleven visar förståelse för talad engelska och kan göra sig förstådd med viss precision.",
+    "C": "Eleven kan förstå talad och skriven engelska i olika sammanhang och uttrycka sig tydligt.",
+    "B": "Eleven visar god språklig medvetenhet och kan analysera texter med precision.",
+    "A": "Eleven behärskar engelska med stor precision och kan kommunicera ledigt och nyanserat."
+  },
+  "provstruktur": {
+    "delprov": [
+      {
+        "beteckning": "A",
+        "typ": "Muntligt",
+        "tidslangd_minuter": 30,
+        "hjalpmedel": ["Inga"]
+      },
+      {
+        "beteckning": "B",
+        "typ": "Läsförståelse",
+        "tidslangd_minuter": 60,
+        "hjalpmedel": ["Inga"]
+      },
+      {
+        "beteckning": "C",
+        "typ": "Skriftligt",
+        "tidslangd_minuter": 60,
+        "hjalpmedel": ["Inga"]
+      }
+    ]
+  }
+}

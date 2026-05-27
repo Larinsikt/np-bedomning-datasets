@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "kalla": "Skolverket kursplan svenska Lgr22",
+    "datum": "2025-01-01",
+    "laroplan": "Lgr22"
+  },
+  "amne": "Svenska",
+  "arskurs": "9",
+  "amnesomraden": [
+    {
+      "namn": "Läsa och förstå",
+      "delomraden": [
+        {
+          "namn": "Läsförståelse och tolkning",
+          "kriterier": {
+            "E": "Kan läsa texter med komplext innehåll och förstå det huvudsakliga budskapet.",
+            "C": "Kan göra tolkningar av texter och stödja dem med textnära belägg.",
+            "A": "Kan göra nyanserade tolkningar av texter och relatera till historiska och kulturella sammanhang."
+          }
+        },
+        {
+          "namn": "Kritisk läsning",
+          "kriterier": {
+            "E": "Kan identifiera texters syfte och målgrupp.",
+            "C": "Kan analysera texter kritiskt och identifiera budskap, värderingar och perspektiv.",
+            "A": "Kan granska texter kritiskt med hänsyn till syfte, publik och samhällskontext."
+          }
+        },
+        {
+          "namn": "Informationssökning",
+          "kriterier": {
+            "E": "Kan söka och samla information från olika källor.",
+            "C": "Kan söka, värdera och sammanfatta information från flera källor.",
+            "A": "Kan genomföra systematisk informationssökning och kritiskt värdera källors trovärdighet."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Skriva",
+      "delomraden": [
+        {
+          "namn": "Textproduktion",
+          "kriterier": {
+            "E": "Kan skriva sammanhängande texter med tydlig struktur och anpassning till syfte.",
+            "C": "Kan skriva välstrukturerade texter med utvecklat innehåll och språk.",
+            "A": "Kan skriva komplexa texter med genomarbetad struktur, djup och språklig variation."
+          }
+        },
+        {
+          "namn": "Argumentation",
+          "kriterier": {
+            "E": "Kan framföra argument och stödja dem med enkla belägg.",
+            "C": "Kan argumentera övertygande med relevanta belägg och bemöta motargument.",
+            "A": "Kan konstruera välgrundade argument med kritiskt tänkande och مستند till flera källor."
+          }
+        },
+        {
+          "namn": "Språklig medvetenhet",
+          "kriterier": {
+            "E": "Kan använda korrekt stavning, grammatik och meningsbyggnad.",
+            "C": "Kan använda ett varierat språk och anpassa stilen ändamålsenligt.",
+            "A": "Kan behärska språket på en hög nivå med varierad och träffsäker stil."
+          }
+        },
+        {
+          "namn": "Disposition och genre",
+          "kriterier": {
+            "E": "Kan disponera texter med tydlig struktur och anpassa till genre.",
+            "C": "Kan disponera och strukturera texter med god balans mellan innehåll och form.",
+            "A": "Kan välja och kombinera genrer och dispositionsprinciper kreativt och ändamålsenligt."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Tala och lyssna",
+      "delomraden": [
+        {
+          "namn": "Muntlig argumentation",
+          "kriterier": {
+            "E": "Kan delta i diskussioner och framföra argument med visst stöd.",
+            "C": "Kan argumentera och diskutera samt anpassa språket till situation och publik.",
+            "A": "Kan leda diskussioner och anpassa argumentation och språk med stor träffsäkerhet."
+          }
+        },
+        {
+          "namn": "Muntlig presentation",
+          "kriterier": {
+            "E": "Kan presentera information på ett tydligt sätt med visst stöd.",
+            "C": "Kan presentera komplex information på ett tydligt och strukturerat sätt.",
+            "A": "Kan presentera med stor tydlighet och övertygande på ett sätt som engagerar åhörare."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Språkliga kunskaper",
+      "delomraden": [
+        {
+          "namn": "Grammatik och stil",
+          "kriterier": {
+            "E": "Kan använda grundläggande grammatiska strukturer korrekt.",
+            "C": "Kan analysera och använda grammatiska strukturer med säkerhet och stilistisk medvetenhet.",
+            "A": "Kan reflektera över och behärska grammatik och stil på en hög nivå."
+          }
+        },
+        {
+          "namn": "Ordförråd och uttryck",
+          "kriterier": {
+            "E": "Kan använda ett ändamålsenligt ordförråd och förstår vanliga facktermer.",
+            "C": "Kan använda ett utvecklat ordförråd och förstår och använder ämnesspecifika begrepp.",
+            "A": "Kan använda ett rikt och nyanserat ordförråd med stor precision i olika sammanhang."
+          }
+        },
+        {
+          "namn": "Retorik",
+          "kriterier": {
+            "E": "Kan identifiera och beskriva retoriska grepp i texter och tal.",
+            "C": "Kan analysera och använda retoriska grepp i egna texter och presentationer.",
+            "A": "Kan använda retorik ändamålsenligt och kritisk analysera andras användning."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Texter och kultur",
+      "delomraden": [
+        {
+          "namn": "Litteratur och analys",
+          "kriterier": {
+            "E": "Kan läsa och återge innehåll och budskap i skönlitterära texter.",
+            "C": "Kan analysera och tolka skönlitteratur med koppling till historiska och kulturella sammanhang.",
+            "A": "Kan göra välgrundade litterära analyser med bred teoretisk referensram."
+          }
+        },
+        {
+          "namn": "Kulturella perspektiv",
+          "kriterier": {
+            "E": "Kan beskriva hur texter speglar kulturella värderingar.",
+            "C": "Kan analysera hur texter speglar och påverkar kulturella och sociala perspektiv.",
+            "A": "Kan reflektera över och diskutera texter ur kulturella och etiska perspektiv."
+          }
+        }
+      ]
+    }
+  ],
+  "kunskapskrav": {
+    "E": "Eleven kan läsa texter med komplext innehåll och förstå budskapet. Eleven skriver sammanhängande texter med enkel struktur.",
+    "D": "Eleven visar förståelse för texter och kan göra enkla tolkningar med visst belägg.",
+    "C": "Eleven gör tolkningar av texter och stödjer dem med textnära belägg. Eleven skriver välstrukturerade texter.",
+    "B": "Eleven visar god förståelse och kan analysera texter med precision.",
+    "A": "Eleven gör nyanserade tolkningar och kritiskt granskar texter. Eleven skriver komplexa texter med stor språklig precision."
+  },
+  "provstruktur": {
+    "delprov": [
+      {
+        "beteckning": "A",
+        "typ": "Muntligt",
+        "tidslangd_minuter": 30,
+        "hjalpmedel": ["Inga"]
+      },
+      {
+        "beteckning": "B",
+        "typ": "Läsförståelse",
+        "tidslangd_minuter": 80,
+        "hjalpmedel": ["Inga"]
+      },
+      {
+        "beteckning": "C",
+        "typ": "Skriftligt",
+        "tidslangd_minuter": 120,
+        "hjalpmedel": ["Inga"]
+      }
+    ]
+  }
+}

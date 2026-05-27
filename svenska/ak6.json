@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "kalla": "Skolverket kursplan svenska Lgr22",
+    "datum": "2025-01-01",
+    "laroplan": "Lgr22"
+  },
+  "amne": "Svenska",
+  "arskurs": "6",
+  "amnesomraden": [
+    {
+      "namn": "Läsa och förstå",
+      "delomraden": [
+        {
+          "namn": "Läsförståelse",
+          "kriterier": {
+            "E": "Kan läsa elevnära texter och förstår det huvudsakliga innehållet.",
+            "C": "Kan läsa och förstå texter med komplexare innehåll och göra enkla inferenser.",
+            "A": "Kan läsa kritiskt och göra välgrundade tolkningar av texter med abstrakt innehåll."
+          }
+        },
+        {
+          "namn": "Att jämföra texter",
+          "kriterier": {
+            "E": "Kan jämföra innehållet i texter på en grundläggande nivå.",
+            "C": "Kan jämföra texter och beskriva likheter och skillnader i innehåll och uppbyggnad.",
+            "A": "Kan analysera hur olika texters uppbyggnad påverkar budskapet."
+          }
+        },
+        {
+          "namn": "Att söka information",
+          "kriterier": {
+            "E": "Kan söka och samla information från enkla källor.",
+            "C": "Kan söka, samla och sortera information från flera källor.",
+            "A": "Kan kritiskt granska och värdera information från olika källor."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Skriva",
+      "delomraden": [
+        {
+          "namn": "Skrivprocess och textproduktion",
+          "kriterier": {
+            "E": "Kan skriva begripliga texter med enkel struktur och sammanhängande innehåll.",
+            "C": "Kan skriva utvecklade texter med tydlig struktur och anpassning till syfte och mottagare.",
+            "A": "Kan skriva välstrukturerade texter med komplext innehåll och anpassning till olika genrer."
+          }
+        },
+        {
+          "namn": "Språk och stil",
+          "kriterier": {
+            "E": "Kan använda grundläggande grammatiska regler och stila sig till ämnet.",
+            "C": "Kan använda ett varierat språk och anpassa stilen efter syfte.",
+            "A": "Kan använda ett rikt språk med varierad men ändamålsenlig stil och uttryck."
+          }
+        },
+        {
+          "namn": "Stavning och meningsbyggnad",
+          "kriterier": {
+            "E": "Kan stava vanliga ord och bygga meningsbyggnader som är begripliga.",
+            "C": "Kan stava och bygga meningsbyggnader som är korrekta och varierade.",
+            "A": "Kan behärska stavning, meningsbyggnad och grammatik på en hög nivå."
+          }
+        },
+        {
+          "namn": "Disposition och struktur",
+          "kriterier": {
+            "E": "Kan disponera en enkel text med början, mellan och slut.",
+            "C": "Kan disponera och strukturera texter med tydliga stycken och logisk ordning.",
+            "A": "Kan disponera komplexa texter med genomarbetad struktur och tydligt flöde."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Tala och lyssna",
+      "delomraden": [
+        {
+          "namn": "Muntlig kommunikation",
+          "kriterier": {
+            "E": "Kan delta i samtal och diskussioner och framföra enkla argument.",
+            "C": "Kan argumentera och diskutera och anpassa sitt språk till situationen.",
+            "A": "Kan leda diskussioner och anpassa språket ändamålsenligt i olika sammanhang."
+          }
+        },
+        {
+          "namn": "Att presentera och berätta",
+          "kriterier": {
+            "E": "Kan presentera information på ett begripligt sätt.",
+            "C": "Kan presentera information på ett tydligt och strukturerat sätt med visuellt stöd.",
+            "A": "Kan presentera komplex information på ett klart och övertygande sätt."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Språkliga kunskaper",
+      "delomraden": [
+        {
+          "namn": "Grammatik och satslära",
+          "kriterier": {
+            "E": "Kan identifiera och använda grundläggande grammatiska strukturer.",
+            "C": "Kan analysera och använda satsdelar och grammatiska strukturer med säkerhet.",
+            "A": "Kan analysera och reflektera över grammatiska strukturer i egna och andras texter."
+          }
+        },
+        {
+          "namn": "Ordförråd och begrepp",
+          "kriterier": {
+            "E": "Kan använda ett grundläggande ordförråd och förstår vanliga facktermer.",
+            "C": "Kan använda ett utvecklat ordförråd och förstår och använder facktermer.",
+            "A": "Kan använda ett rikt och nyanserat ordförråd och behärskar ämnesspecifika begrepp."
+          }
+        },
+        {
+          "namn": "Retorik och argumentation",
+          "kriterier": {
+            "E": "Kan identifiera enkla retoriska grepp i texter och tal.",
+            "C": "Kan beskriva och använda grundläggande retoriska grepp.",
+            "A": "Kan analysera och använda retoriska grepp ändamålsenligt."
+          }
+        }
+      ]
+    },
+    {
+      "namn": "Texter och kultur",
+      "delomraden": [
+        {
+          "namn": "Litteratur och skönlitteratur",
+          "kriterier": {
+            "E": "Kan läsa och återberätta handlingen i skönlitterära texter.",
+            "C": "Kan analysera och tolka skönlitterära texter med stöd av frågor.",
+            "A": "Kan tolka och analysera skönlitteratur självständigt med koppling till egen erfarenhet."
+          }
+        },
+        {
+          "namn": "Textsorter och genrer",
+          "kriterier": {
+            "E": "Kan känna igen några vanliga textsorter och deras syfte.",
+            "C": "Kan beskriva och använda olika textsorter och genrer.",
+            "A": "Kan anpassa sin läsning och skrivning till olika genrer och deras konventioner."
+          }
+        }
+      ]
+    }
+  ],
+  "kunskapskrav": {
+    "E": "Eleven kan läsa och förstå elevnära texter samt återger det huvudsakliga innehållet. Eleven skriver begripliga texter.",
+    "D": "Eleven visar förståelse för texter och kan sammanfatta innehållet med viss precision.",
+    "C": "Eleven läser och förstår texter med komplexare innehåll och kan analysera och sammanfatta med precision.",
+    "B": "Eleven visar god förståelse och kan tolka texter med djup.",
+    "A": "Eleven läser kritiskt och analyserar texter med stor precision och kan formulera välgrundade tolkningar."
+  },
+  "provstruktur": {
+    "delprov": [
+      {
+        "beteckning": "A",
+        "typ": "Muntligt",
+        "tidslangd_minuter": 30,
+        "hjalpmedel": ["Inga"]
+      },
+      {
+        "beteckning": "B",
+        "typ": "Läsförståelse",
+        "tidslangd_minuter": 60,
+        "hjalpmedel": ["Inga"]
+      },
+      {
+        "beteckning": "C",
+        "typ": "Skriftligt",
+        "tidslangd_minuter": 60,
+        "hjalpmedel": ["Inga"]
+      }
+    ]
+  }
+}
