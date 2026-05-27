@@ -3,7 +3,11 @@
   "title": "Bedömningskriterier för nationella prov",
   "description": "Strukturerat format för bedömningskriterier enligt Lgr22/Gy25",
   "type": "object",
-  "required": ["metadata", "amne", "arskurs", "kunskapskrav"],
+  "required": ["metadata", "amne", "kunskapskrav"],
+  "oneOf": [
+    { "required": ["arskurs"] },
+    { "required": ["kurs"] }
+  ],
   "properties": {
     "metadata": {
       "type": "object",
@@ -16,7 +20,8 @@
       }
     },
     "amne": { "type": "string" },
-    "arskurs": { "type": "string" },
+    "arskurs": { "type": "string", "description": "Används för grundskolan (åk 6, åk 9)" },
+    "kurs": { "type": "string", "description": "Används för gymnasiet (Ma1, Sv1, Eng5 etc.)" },
     "amnesomraden": {
       "type": "array",
       "items": {
